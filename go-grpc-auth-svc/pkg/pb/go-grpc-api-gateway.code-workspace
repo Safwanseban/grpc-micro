@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../../go-grpc-api-gateway"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
